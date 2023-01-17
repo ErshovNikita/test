@@ -1,2 +1,2 @@
 "Это текстовый документ"
-"We'll create new text."
+"We'll create new text..."
